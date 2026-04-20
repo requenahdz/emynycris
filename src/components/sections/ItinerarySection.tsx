@@ -83,7 +83,7 @@ export default function ItinerarySection() {
                     href={mapsUrl}
                     target="_blank"
                     rel="noreferrer"
-                    className="absolute left-1/2 bottom-[9%] z-20 h-[13%] w-[62%] -translate-x-1/2"
+                    className="absolute left-1/2 bottom-[15%] z-20 h-[13%] w-[62%] -translate-x-1/2"
                   />
                 </>
               ) : (
