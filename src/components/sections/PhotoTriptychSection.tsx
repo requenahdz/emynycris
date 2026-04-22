@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 
 export default function PhotoTriptychSection() {
-  const gallery = ["/assets/images/gallery-1..png", "/assets/images/gallery-2..png", "/assets/images/gallery-3..png"];
+  const gallery = ["/assets/images/foto1.png", "/assets/images/foto2.PNG", "/assets/images/foto3.jpg"];
   const trackRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {

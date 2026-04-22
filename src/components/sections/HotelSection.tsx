@@ -19,7 +19,6 @@ export default function HotelSection() {
                 <div className="relative w-full aspect-[4/3] overflow-hidden">
                   <img src="/assets/images/hotel.png" alt="" className="absolute inset-0 h-full w-full object-cover grayscale" />
                 </div>
-                <div className="h-14 bg-black/95" />
               </div>
             </div>
 
